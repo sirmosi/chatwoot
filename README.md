@@ -1,4 +1,4 @@
-# Chatwoot docker compose file based on standard installation via official site documentation
+## Chatwoot docker compose file based on standard installation via official site documentation
 - chatwoot
 - rails
 - sidekiq
